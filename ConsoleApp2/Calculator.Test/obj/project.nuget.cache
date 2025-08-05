@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2fHVW8lolI4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\Calculator.Test\\Calculator.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snara\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

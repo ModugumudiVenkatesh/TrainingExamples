@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65C7661-D455-451F-AD21-11BF30FDDE1A}|ClassLibrary2\\ClassLibrary2.csproj|c:\\users\\snara\\source\\repos\\consoleapp2\\classlibrary2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65C7661-D455-451F-AD21-11BF30FDDE1A}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D07A87-6901-49FB-AA03-5169EB20546D}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\snara\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D07A87-6901-49FB-AA03-5169EB20546D}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D07A87-6901-49FB-AA03-5169EB20546D}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\snara\\source\\repos\\consoleapp2\\consoleapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88D07A87-6901-49FB-AA03-5169EB20546D}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ConsoleApp2\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp2\\App.config",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ConsoleApp2\\App.config",
+              "RelativeToolTip": "ConsoleApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-29T12:58:06.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ClassLibrary2\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Class1.cs",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ClassLibrary2\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T11:04:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T10:19:17.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

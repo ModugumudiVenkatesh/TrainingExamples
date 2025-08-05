@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>My Page</title>
+    <link href="wwwroot/css/bootstrap/css/bootstrap-grid.min.css" rel="stylesheet" />
+    <style>
+        h1 {
+            color: red;
+            font-size: 30px;
+            font-family: "Times New Roman",Times,serif;
+            background-color: pink;
+            font-style: italic;
+            text-decoration: underline;
+        }
+
+        p {
+            color: black;
+            font-weight: 900;
+            font-family: "Roboto"
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Html</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <p>
+                Based on the provided table schemas, here is the SQL query to solve the problem.
+                The query works by:
+                * Creating a Common Table Expression (CTE) named BankTrans to identify all customers and the dates they made a bank transaction. It considers both the sender and receiver of the bank transaction.
+                * Creating a second CTE named CryptoTrans to identify all customers and the dates they made a crypto transaction. This requires joining through several tables to link a transaction back to a customer's bank account ID.
+                * Joining the two CTEs on both the CustomerID and the TransactionDate to find the overlaps.
+                * Finally, counting the number of unique customers from the resulting joined set.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <img src="https://img.freepik.com/premium-photo/abstract-colorful-splash-3d-background_466984-122.jpg" />
+        </div>
+    </div>
+</body>
+</html>
