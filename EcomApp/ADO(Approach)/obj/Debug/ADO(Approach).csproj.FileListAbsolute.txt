@@ -1,0 +1,8 @@
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\obj\Debug\ADO(Approach).csproj.AssemblyReference.cache
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\obj\Debug\ADO(Approach).csproj.CoreCompileInputs.cache
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\bin\Debug\ADO(Approach).exe.config
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\bin\Debug\ADO(Approach).exe
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\bin\Debug\ADO(Approach).pdb
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\obj\Debug\ADO(Approach).exe
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\obj\Debug\ADO(Approach).pdb
+C:\Users\snara\source\repos\EcomApp\ADO(Approach)\obj\Debug\ADO(Approach).exe.config

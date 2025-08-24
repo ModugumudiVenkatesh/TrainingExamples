@@ -296,3 +296,4 @@ C:\Users\snara\source\repos\CoreRazorExample\CoreRazorExample\obj\Debug\net8.0\C
 C:\Users\snara\source\repos\CoreRazorExample\CoreRazorExample\obj\Debug\net8.0\CoreRazorExample.genruntimeconfig.cache
 C:\Users\snara\source\repos\CoreRazorExample\CoreRazorExample\obj\Debug\net8.0\ref\CoreRazorExample.dll
 C:\Users\snara\source\repos\CoreRazorExample\CoreRazorExample\obj\Debug\net8.0\CoreRazorExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\snara\source\repos\CoreRazorExample\CoreRazorExample\obj\Debug\net8.0\CoreRazorExample.sourcelink.json

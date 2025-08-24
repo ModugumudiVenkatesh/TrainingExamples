@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+<h2>Products</h2>
+<p><a class="btn btn-success" asp-action="Create">Create Product</a></p>
+
+<table class="table table-striped">
+    <thead><tr><th>Id</th><th>Name</th><th>Price</th><th>Stock</th><th></th></tr></thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.ProductId</td>
+                <td>@p.Name</td>
+                <td>@p.Price</td>
+                <td>@p.StockQuantity</td>
+                <td>
+                    <form asp-controller="Cart" asp-action="Add" method="post" class="d-inline">
+                        <input type="hidden" name="productId" value="@p.ProductId" />
+                        <input type="number" name="quantity" value="1" min="1" style="width:80px" />
+                        <button class="btn btn-sm btn-primary" type="submit">Add to Cart</button>
+                    </form>
+                    <form asp-action="Delete" method="post" class="d-inline" onsubmit="return confirm('Delete?');">
+                        <input type="hidden" name="id" value="@p.ProductId" />
+                        <button class="btn btn-sm btn-danger" type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

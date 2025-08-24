@@ -154,5 +154,9 @@ namespace CoreRazorExample.Controllers
         {
             return _context.doctor.Any(e => e.Id == id);
         }
+        public IActionResult GetDoctorsByExperience()
+        {
+            return View();
+        }
     }
 }

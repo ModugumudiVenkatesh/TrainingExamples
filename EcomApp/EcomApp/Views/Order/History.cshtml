@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Models.Order>
+@{
+    ViewData["Title"] = "Orders";
+}
+<h2>Order History</h2>
+
+@foreach (var o in Model)
+{
+    <div class="card mb-3">
+        <div class="card-body">
+            <h5>Order #@o.OrderId — @o.OrderDate.ToLocalTime()</h5>
+            <div>Shipping: @o.ShippingAddress</div>
+            <div>Total: <strong>@o.TotalPrice</strong></div>
+            <table class="table table-sm mt-2">
+                <thead><tr><th>Product</th><th>Qty</th><th>Price</th></tr></thead>
+                <tbody>
+                    @foreach (var it in o.Items)
+                    {
+                        <tr>
+                            <td>@it.Product?.Name</td>
+                            <td>@it.Quantity</td>
+                            <td>@it.Product?.Price</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}

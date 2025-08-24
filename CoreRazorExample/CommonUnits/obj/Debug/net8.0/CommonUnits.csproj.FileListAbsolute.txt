@@ -9,3 +9,4 @@ C:\Users\snara\source\repos\CoreRazorExample\CommonUnits\obj\Debug\net8.0\Common
 C:\Users\snara\source\repos\CoreRazorExample\CommonUnits\obj\Debug\net8.0\refint\CommonUnits.dll
 C:\Users\snara\source\repos\CoreRazorExample\CommonUnits\obj\Debug\net8.0\CommonUnits.pdb
 C:\Users\snara\source\repos\CoreRazorExample\CommonUnits\obj\Debug\net8.0\ref\CommonUnits.dll
+C:\Users\snara\source\repos\CoreRazorExample\CommonUnits\obj\Debug\net8.0\CommonUnits.sourcelink.json

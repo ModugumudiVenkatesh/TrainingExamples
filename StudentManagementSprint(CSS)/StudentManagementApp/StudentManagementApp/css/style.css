@@ -1,0 +1,56 @@
+﻿/* General Reset and Typography */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar customization */
+.navbar {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Page header styling */
+h1, h2 {
+    color: #2c3e50;
+}
+
+/* Dashboard container */
+.container {
+    padding-top: 40px;
+}
+
+/* Time Table Styles */
+.timetable-container {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    margin: 30px auto;
+    max-width: 900px;
+}
+
+/* Responsive table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Table header */
+thead th {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+}
+
+/* Table cells */
+td, th {
+    text-align: center;
+    padding: 12px;
+}
+
+/* Add spacing between rows */
+tbody tr:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}
