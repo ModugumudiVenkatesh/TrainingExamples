@@ -269,3 +269,12 @@ C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\runtime
 C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\obj\Debug\net8.0\MVCExample.sourcelink.json
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\libman.json
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\DnsClient.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\MongoDB.EntityFrameworkCore.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\Snappier.dll
+C:\Users\snara\source\repos\CoreRazorExample\MVCExample\bin\Debug\net8.0\ZstdSharp.dll

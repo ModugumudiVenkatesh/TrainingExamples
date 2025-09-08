@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snara\\source\\repos\\EcomApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|c:\\users\\snara\\source\\repos\\ecomapp\\ado(approach)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|solutionrelative:ado(approach)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|c:\\users\\snara\\source\\repos\\ecomapp\\ado(approach)\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|solutionrelative:ado(approach)\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|c:\\users\\snara\\source\\repos\\ecomapp\\ado(approach)\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1688733C-EB1D-49C5-B5A5-4D36E00C2381}|ADO(Approach)\\ADO(Approach).csproj|solutionrelative:ado(approach)\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ADO(Approach)\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\Models\\Customer.cs",
+              "RelativeToolTip": "ADO(Approach)\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:53:12.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUD.cs",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\CRUD.cs",
+              "RelativeDocumentMoniker": "ADO(Approach)\\CRUD.cs",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\CRUD.cs",
+              "RelativeToolTip": "ADO(Approach)\\CRUD.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwHQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:58:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\Program.cs",
+              "RelativeDocumentMoniker": "ADO(Approach)\\Program.cs",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\EcomApp\\ADO(Approach)\\Program.cs",
+              "RelativeToolTip": "ADO(Approach)\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:55:32.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

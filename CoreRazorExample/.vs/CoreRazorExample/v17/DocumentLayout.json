@@ -3,108 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\secondbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\secondbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\thirdbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\thirdbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\20250730193709_second.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\20250730193709_second.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\20250731121317_third.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\20250731121317_third.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\mvcexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\mvcexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0D2108-48F5-46C5-8F08-E2638AE49844}|CoreRazorExample\\CoreRazorExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\corerazorexample\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0D2108-48F5-46C5-8F08-E2638AE49844}|CoreRazorExample\\CoreRazorExample.csproj|solutionrelative:corerazorexample\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0D2108-48F5-46C5-8F08-E2638AE49844}|CoreRazorExample\\CoreRazorExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\corerazorexample\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F0D2108-48F5-46C5-8F08-E2638AE49844}|CoreRazorExample\\CoreRazorExample.csproj|solutionrelative:corerazorexample\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\20250730193709_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\20250730193709_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\data\\migrations\\20250731121317_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\data\\migrations\\20250731121317_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|c:\\users\\snara\\source\\repos\\corerazorexample\\mvcexample\\views\\doctors\\getdoctorsbyexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E64087D5-FB5C-4233-AB83-A9A7A25698E0}|MVCExample\\MVCExample.csproj|solutionrelative:mvcexample\\views\\doctors\\getdoctorsbyexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,320 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MVCExample\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MVCExample\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-05T09:47:35.951Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "welcome.html",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\welcome.html",
-              "RelativeDocumentMoniker": "MVCExample\\welcome.html",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\welcome.html",
-              "RelativeToolTip": "MVCExample\\welcome.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-08-05T03:52:30.103Z",
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MVCExample\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MVCExample\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-06T04:35:25.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Program.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Program.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Program.cs",
-              "RelativeToolTip": "MVCExample\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowD0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T11:43:53.303Z"
+              "DocumentIndex": 2,
+              "Title": "GetDoctorsByExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Doctors\\GetDoctorsByExperience.cshtml",
+              "RelativeDocumentMoniker": "MVCExample\\Views\\Doctors\\GetDoctorsByExperience.cshtml",
+              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Doctors\\GetDoctorsByExperience.cshtml",
+              "RelativeToolTip": "MVCExample\\Views\\Doctors\\GetDoctorsByExperience.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T05:39:00.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\MongoDbSettings.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Models\\MongoDbSettings.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\MongoDbSettings.cs",
-              "RelativeToolTip": "MVCExample\\Models\\MongoDbSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T16:52:09.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "thirdBase.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\thirdBase.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\thirdBase.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\thirdBase.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\thirdBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:05:00.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MVCExample\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:58:18.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "DoctorsController.cs",
               "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\DoctorsController.cs",
               "RelativeDocumentMoniker": "MVCExample\\Controllers\\DoctorsController.cs",
               "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\DoctorsController.cs",
               "RelativeToolTip": "MVCExample\\Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDUAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:56:37.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\Doctor.cs",
-              "RelativeToolTip": "MVCExample\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T12:08:58.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCExample\\appsettings.json",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\appsettings.json",
-              "RelativeToolTip": "MVCExample\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-30T12:07:18.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "secondBase.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\secondBase.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\secondBase.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\secondBase.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\secondBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:04:41.77Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Models\\Patient.cs",
-              "RelativeToolTip": "MVCExample\\Models\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:25:23.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T10:25:56.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "MVCExample\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "MVCExample\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T17:58:47.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250730193709_second.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250730193709_second.Designer.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\20250730193709_second.Designer.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250730193709_second.Designer.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\20250730193709_second.Designer.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:59:41.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20250731121317_third.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250731121317_third.Designer.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\20250731121317_third.Designer.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250731121317_third.Designer.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\20250731121317_third.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:00:19.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T06:39:19.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T13:20:36.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "CoreRazorExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T13:20:29.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250731121317_third.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250731121317_third.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\20250731121317_third.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250731121317_third.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\20250731121317_third.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T12:13:17.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "MVCExample\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T06:20:59.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MVCExample.csproj",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\MVCExample.csproj",
-              "RelativeDocumentMoniker": "MVCExample\\MVCExample.csproj",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\MVCExample.csproj",
-              "RelativeToolTip": "MVCExample\\MVCExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-04T17:31:34.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MVCExample\\Views\\Patients\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Delete.cshtml",
-              "RelativeToolTip": "MVCExample\\Views\\Patients\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T09:26:35.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVCExample\\Views\\Patients\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Edit.cshtml",
-              "RelativeToolTip": "MVCExample\\Views\\Patients\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T07:18:18.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCExample\\Views\\Patients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Index.cshtml",
-              "RelativeToolTip": "MVCExample\\Views\\Patients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T06:22:01.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCExample\\Views\\Patients\\Create.cshtml",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Views\\Patients\\Create.cshtml",
-              "RelativeToolTip": "MVCExample\\Views\\Patients\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T06:25:58.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250730193709_second.cs",
-              "DocumentMoniker": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250730193709_second.cs",
-              "RelativeDocumentMoniker": "MVCExample\\Data\\Migrations\\20250730193709_second.cs",
-              "ToolTip": "C:\\Users\\snara\\source\\repos\\CoreRazorExample\\MVCExample\\Data\\Migrations\\20250730193709_second.cs",
-              "RelativeToolTip": "MVCExample\\Data\\Migrations\\20250730193709_second.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:37:09.734Z"
+              "WhenOpened": "2025-08-06T05:37:01.94Z",
+              "EditorCaption": ""
             }
           ]
         }

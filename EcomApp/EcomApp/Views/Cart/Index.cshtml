@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Models.CartItem>
+@{
+    ViewData["Title"] = "Cart";
+}
+<h2>Your Cart</h2>
+
+<!-- ✅ Show error or success messages -->
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-danger">@TempData["error"]</div>
+}
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Your cart is empty.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Qty</th>
+                <th>Price</th>
+                <th>Subtotal</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                decimal total = 0;
+            }
+            @foreach (var item in Model)
+            {
+                var price = item.Product?.Price ?? 0;
+                var subtotal = price * item.Quantity;
+                total += subtotal;
+                <tr>
+                    <td>@item.Product?.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@price.ToString("C")</td>
+                    <td>@subtotal.ToString("C")</td>
+                    <td>
+                        <form asp-action="Remove" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button class="btn btn-sm btn-warning">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="mb-3">
+        <strong>Total: @total.ToString("C")</strong>
+    </div>
+
+    <!-- ✅ Checkout form -->
+    <form asp-controller="Order" asp-action="Place" method="post">
+        <div class="mb-2">
+            <label>Shipping Address</label>
+            <input class="form-control" name="shippingAddress" required />
+        </div>
+        <button class="btn btn-success" type="submit">Place Order</button>
+    </form>
+}
